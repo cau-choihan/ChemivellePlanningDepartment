@@ -1,0 +1,29 @@
+#teamTitle {
+    background-color : skyblue;
+    padding-top : 75px;
+    padding-bottom : 75px;
+}    
+#titleFont{
+    text-align : center;
+    color : white;
+    font-weight : lighter;
+}
+ #chemivelleFont{
+    font-size:35px;
+ }
+#tailTitle{
+    background-color : skyblue;
+    padding-top : 15px;
+    padding-bottom : 25px;
+}
+#wrap {
+    min-height: 100vh;
+    position: relative;
+    width: 100%;
+}
+footer {
+	width: 100%;
+	height: 110px;
+	bottom: 0px;
+	position: absolute;
+}
