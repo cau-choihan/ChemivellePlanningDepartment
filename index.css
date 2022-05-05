@@ -28,5 +28,5 @@ footer {
 	position: absolute;
 }
 section {
-	padding-bottom: 110px; /* footer의 height값과 동일 */
+	padding-bottom: 110px;
 }
