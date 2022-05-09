@@ -10,6 +10,7 @@
 }
  #chemivelleFont{
     font-size:35px;
+    text-align : center;
  }
 #tailTitle{
     background-color : skyblue;
@@ -30,7 +31,7 @@ footer {
 section {
     padding-left:15px;
     padding-right:15px;
-	padding-bottom: 120px;
+	padding-bottom: 120px; /* footer의 height값과 동일 */
 }
 a {
     text-decoration:none;
